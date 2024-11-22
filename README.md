@@ -1,6 +1,6 @@
 # My-Projects
 
-Project Title : A Robust Machine Learning Method For Finding Insurance Fraud Claims.
+Project Title : Building A Robust Machine Learning Method For Finding Insurance Fraud Claims.
 
 INTRODUCTION:
 
@@ -16,7 +16,7 @@ we are able to overcome the class imbalance issue and improve the performance of
 the underlying distribution, leading to enhanced detection of fraudulent claims. I evaluated the performance of the model by measuring various metrics such as accuracy, precision, 
 recall, and F1-score. My findings demonstrated the effectiveness of SMOTE in addressing class imbalance with improved random forest and LightGBM model for fraud claim detection process.
 
-Web-Page for entering the data to check for Fraud Claims:
+Web-Page for entering the data to check and Analyze Insurance Claims:
 
 
 [streamlit-output-2024-01-04-22-01-30.webm](https://github.com/mohammed113-hacker/My-Projects/assets/79789933/f2f31c4b-4daa-49ae-a929-5392f4c333e0)
